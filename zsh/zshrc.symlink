@@ -11,6 +11,7 @@ ZSH_THEME="shannon"
  alias zshconfig="subl ~/.zshrc"
  alias ohmyzsh="subl ~/.oh-my-zsh"
  alias copydots="cp ~/.zshrc ~/development/dotfiles/zsh/ && cp ~/.gitconfig ~/development/dotfiles/git/ && cp ~/.oh-my-zsh/themes/Shannon.zsh-theme ~/Development/dotfiles/zsh/themes/ && cp ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User/Preferences.sublime-settings ~/development/dotfiles/subl/"
+ alias psql="'/Applications/Postgres.app/Contents/Versions/9.3/bin'/psql -p5432"
  alias git=hub
  alias realscout="cd ~/Development/RealScoutV2"
  alias dev="cd ~/Development"
